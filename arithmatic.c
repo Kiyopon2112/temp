@@ -7,6 +7,6 @@ scanf("%d",&n);
 if (n%2==0)
 printf("the no is div by 2");
 else 
-printf("invalid input");
+printf("the number is not divisible by 2");
 	
 }
